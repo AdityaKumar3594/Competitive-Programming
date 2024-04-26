@@ -1,0 +1,36 @@
+Competitive Programming
+1. Brute Force
+   a)Given Question
+        |__Find  & implement solution
+         |__
+   b)Do as much as possible  
+
+
+2)
+  a)Identify Computational problem
+  b)Choose Data structure and Algorithms based on the problem
+  c)Analyse and evaluate different DSA
+  d)Implement Solution
+
+3)
+  a)Identify (CPB)
+  b)Repeat (a) until confident
+  c)Choose DSA based on the problem
+  d)Analyse and Evaluate different DSA
+  e)Repeat (c) & (d) until confident 
+  f)Implement solution ->until optimal in-built modules
+  g)Do as much as possible
+
+4)
+ a)Identify CPB
+ b)Check the existing solution
+     |_Identify DSA, approaches and evaluation
+ c)Repeat (a)&(b) till confident
+ d)Implement solution ->until optimal in-built modules
+ e)Do as much as possible
+
+AI & DS
+|__Competitive Programming
+|        |_LEET CODE
+|__ML & DL CP
+      |__KAGGLE
