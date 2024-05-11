@@ -32,5 +32,5 @@ Competitive Programming
 AI & DS
 |__Competitive Programming
 |        |_LEET CODE
-|__ML & DL CP
+|__Machine Learning & DeepLearning ComPetitions
       |__KAGGLE
